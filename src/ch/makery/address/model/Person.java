@@ -1,12 +1,8 @@
 package ch.makery.address.model;
 
 import javafx.beans.property.*;
-
 import java.time.LocalDate;
 
-/**
- * Created by ixeos on 17.04.2015.
- */
 public class Person {
 
     private final StringProperty firstName;
